@@ -6,7 +6,7 @@ Dependências: ProtocolLib (Versão 3.6.4)
 
 Armazenamento de dados: Mysql, Redis e MongoDB
 
-    -> Este plugin estará somente o Mysql até a versão 1.0.3
+    -> Este plugin estará somente usando o Mysql até a versão 1.0.3
 
 
 Desenvolvido por: Zukian e Cabratez34 (Responsável pela parte do Redis)
