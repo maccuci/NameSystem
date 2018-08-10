@@ -1,16 +1,5 @@
-# Commons
+# NameSystem
 
-Plugin que gerencia toda a back-end do seu servidor.
+Plugin que pega as informações do nickname de tal jogador, mostrando o histórico de seus nicks. E também pega dados dos servidores da mojang.
 
-Dependências: ProtocolLib (Versão 3.6.4)
-
-Armazenamento de dados: Mysql, Redis e MongoDB
-
-    -> Este plugin estará somente usando o Mysql até a versão 1.0.3
-
-
-Desenvolvido por: Zukian e Cabratez34 (Responsável pela parte do Redis)
-
-Versão: 1.0.0
-
-Maven: 3.0
+Versão: 1.0
