@@ -11,5 +11,6 @@ Armazenamento de dados: Mysql, Redis e MongoDB
 
 Desenvolvido por: Zukian e Cabratez34 (Responsável pela parte do Redis)
 
-Versão: 1.0.0\n
+Versão: 1.0.0
+
 Maven: 3.0
