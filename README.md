@@ -3,7 +3,9 @@
 Plugin que gerencia toda a back-end do seu servidor.
 
 Dependências: ProtocolLib (Versão 3.6.4)
+
 Armazenamento de dados: Mysql, Redis e MongoDB
+
  -> Este plugin estará somente o Mysql até a versão 1.0.3
 
 
