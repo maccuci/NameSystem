@@ -1,0 +1,9 @@
+name: NameSystem
+version: 1.0
+author: Zukian
+main: namehistory.checker.Checker
+commands:
+  namehistory:
+  mojang:
+  checkplayer:
+  
